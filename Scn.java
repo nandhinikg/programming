@@ -11,6 +11,8 @@ public class Scn {
 	
      int interest = w.nextInt();
      System.out.println("interest="+interest);
+		
+		system.out.println("city union bank");
      
      String savingmethod = w.nextLine();
      System.out.println("savingmethod="+savingmethod);
